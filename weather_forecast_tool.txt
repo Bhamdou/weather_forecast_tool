@@ -1,0 +1,3 @@
+This script retrieves the current weather conditions for the specified city directly,
+rather than first geocoding the city name to coordinates and then using those coordinates to get the weather data.
+As a result, it only provides current weather data and does not provide a forecast.
